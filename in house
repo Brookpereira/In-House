@@ -1,0 +1,9 @@
+nome = input('digite seu nome')
+email = input('Digite seu e-mail')
+senha = input('digite seu e-mail')
+
+usuario ={
+    "nome": nome,
+    'e-mail': email,
+    'senha': senha
+}
