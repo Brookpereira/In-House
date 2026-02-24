@@ -1,6 +1,6 @@
 nome = input('digite seu nome')
 email = input('Digite seu e-mail')
-senha = input('digite seu e-mail')
+senha = input('digite sua senha')
 
 usuario ={
     "nome": nome,
